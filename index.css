@@ -28,3 +28,8 @@ li{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.btn,#l1{
+    border-style: dashed;
+    border-color: blue;
+    border-width: 2px;
+}
