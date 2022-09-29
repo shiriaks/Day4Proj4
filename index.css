@@ -1,0 +1,30 @@
+body{
+    margin: 2%;
+    border-color: red;
+    border-width: 3px;
+    border-style:outset;
+}
+
+.box{
+    margin: 2%;
+    border-color: red;
+    border-width: 3px;
+    border-style:outset;
+
+}
+#li1{
+    margin-bottom: -5px;
+    margin-left: -20px;
+}
+#li2{
+    margin-left: -20px;
+    margin-top: 5px;
+}
+li{
+    margin: 2%;
+    border-color: red;
+    border-width: 3px;
+    border-style:outset;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
